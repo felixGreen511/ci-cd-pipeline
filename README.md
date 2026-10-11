@@ -15,8 +15,8 @@ The starter includes a home page, a health endpoint, and a passing health endpoi
 Clone the starter into a new folder:
 
 ```bash
-git clone https://github.com/bradtraversy/cicd-lab-starter.git cicd-lab
-cd cicd-lab
+git clone https://github.com/felixGreen511/ci-cd-pipeline.git
+cd ci-cd-pipline
 npm ci
 ```
 
